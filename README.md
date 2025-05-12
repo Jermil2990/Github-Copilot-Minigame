@@ -5,7 +5,7 @@ Starter and Final code for the Challenge project: "Challenge project - Build a m
 ## Rock, Paper, Scissors Game 🎮
 This is a simple Python terminal game where you can play Rock, Paper, Scissors against the computer. The program handles user input, keeps track of the score for the current session, and allows the user to play multiple rounds.
 
-#### 📋 Features
+### 📋 Features
 Play Rock, Paper, Scissors against a computer opponent.
 
 Randomized computer choices.
